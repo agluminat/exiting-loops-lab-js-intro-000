@@ -14,5 +14,5 @@ function keepGoing(array, changeValue, skipValue) {
 }
 
 findBy(array, findFn) {
-  
+
 }
