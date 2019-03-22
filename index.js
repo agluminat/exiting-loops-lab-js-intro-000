@@ -23,4 +23,5 @@ findBy(array, findFn) {
     if (array[i] !== findFn) {
       return null
     }
+  }
 }
